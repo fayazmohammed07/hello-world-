@@ -9,4 +9,4 @@ MAINTAINER " fayazmohammed07"
 
 # Copy index file to the tomcat container
 
-COPY ./index.html /usr/local/tomcat/webapps/myapps
+# COPY ./index.html /usr/local/tomcat/webapps/myapps
